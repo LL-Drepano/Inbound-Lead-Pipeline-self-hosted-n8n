@@ -162,5 +162,5 @@ dev->production promotion.
   firewalls, HTML cleanup, layered escaping, and API rate limits.
 - Using an LLM for both *generation* (a suggested reply angle) and *extraction*
   (structured, machine-readable enrichment) — and knowing the difference.
-- Grounding an LLM in real source data to make its output trustworthy — the central
+- Grounding an LLM in real source data to make its output trustworthy — tbh the central
   skill in applied AI automation.
